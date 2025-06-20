@@ -2,7 +2,7 @@
 
 This repository contains my up-to-date CV in PDF format. You can view or download it using the link below.
 
-📄 [View CV (PDF)](./Valeriy_Kim_CV.pdf)
+📄 [View CV (PDF)](./Valeriy_CV.pdf)
 
 ## About Me
 
